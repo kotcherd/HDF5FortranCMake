@@ -1,0 +1,7 @@
+=====START
+This is an example of using HDF5 and cmake with fortran:  with and without Modules.
+
+===== install HDF5 with brew
+🍺  /usr/local/Cellar/hdf5/1.14.2: 285 files, 18.5MB
+
+
